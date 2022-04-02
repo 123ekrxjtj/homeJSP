@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;include.jsp&apos; to &apos;JSPBook&apos;" description="Move &apos;include.jsp&apos; to &apos;JSPBook&apos;" destination="/JSPBook" element1="/gwaje/WebContent/include.jsp" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1648804729597" updateReferences="true"/>
+</session>
